@@ -13,4 +13,3 @@ Use the predict() method to forecast values.
 Visualization:
 plotting functions (plot() and plot_components()) to visualize forecasts and decomposed components (trend, seasonality, holidays).
 
-There are many model parameters that can be used in prophet
