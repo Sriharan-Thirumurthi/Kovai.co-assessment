@@ -1,6 +1,8 @@
 # Kovai.co-assessment
 Time series analysis using Pyhton Programming in Collab
+
 About the data: This is a Time series data about the Passenger Counts using different services from January 1,2019 to September 29,2024
+
 Different services such as **Local Route,	Light Rail,	Peak Service, Rapid Route and	School	**
 Key insights derived from analysing the Time series data:
 *Passenger usage sharply drops in all services during Weekends
