@@ -3,6 +3,11 @@ Time series analysis using Pyhton Programming in Collab
 About the data: This is a Time series data about the Passenger Counts using different services from January 1,2019 to September 29,2024
 Different services such as **Local Route,	Light Rail,	Peak Service, Rapid Route and	School	**
 Key insights derived from analysing the Time series data:
+*Passenger usage sharply drops in all services during Weekends
+*During the year of 2020,2021 and 2022, Passenger usages has been dropped due to the Pandemic (COVID-19)
+*School columns shows that there is a distinct seasonal trends
+*Apart from the School, the other services shows a stable and consistent distribution of the passengers
+
 Considering the distribution of passengers in various services with respect to Month,day of the week and the Quarter of the year to get detailed information about the spread of time series data
 I have used the Box plot to visualise the spread of passengers in various services
 **Local Route**
