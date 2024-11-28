@@ -1,0 +1,16 @@
+I have used Prophet, it is an open source library used particularly for time series models. And it is easy to forecast for the next 7 days for each services that has been produced as the output in collab file
+It is particularly effective for handling data with clear seasonal patterns, trends, and missing values.
+These are the steps to be followed to use Prophet library in Python
+
+Input data must have two columns: ds (date) and y (target variable).
+
+Initialize the model with optional parameters (growth, seasonality_mode, etc.).
+
+Use the fit() method to train the model on historical data.
+Generate future dates using make_future_dataframe().
+Use the predict() method to forecast values.
+
+Visualization:
+plotting functions (plot() and plot_components()) to visualize forecasts and decomposed components (trend, seasonality, holidays).
+
+There are many model parameters that can be used in prophet
