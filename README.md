@@ -10,6 +10,8 @@ Key insights derived from analysing the Time series data:
 
 Considering the distribution of passengers in various services with respect  to Month,day of the week and the Quarter of the year to get detailed information about the spread of time series data
 I have used the Box plot to visualise the spread of passengers in various services
+
+
 **Local Route**
 From the Box plot for the spread of passengers in Local Route, we infer that
 - Passenger counts for "Local Route" show an overall steady trend, suggesting stable usage over time
