@@ -14,9 +14,9 @@ I have used the Box plot to visualise the spread of passengers in various servic
 
 **Local Route**
 From the Box plot for the spread of passengers in Local Route, we infer that
-- Passenger counts for "Local Route" show an overall steady trend, suggesting stable usage over time
-- In monthly distribution, February month shows the highest usage and January shows the least usage
-- In day of the week, it shows that Saturday and Sunday (weekends) are the days which is least used by the Passengers
+-Passenger counts for "Local Route" show an overall steady trend, suggesting stable usage over time
+-In monthly distribution, February month shows the highest usage and January shows the least usage
+-In day of the week, it shows that Saturday and Sunday (weekends) are the days which is least used by the Passengers
 
 **Light Rail**
 -There is a stable growth in Light rail indicating that the Passengers are started to using Rail system
